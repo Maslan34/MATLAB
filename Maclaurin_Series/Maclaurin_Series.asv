@@ -1,0 +1,27 @@
+x=2;
+y=3;
+
+power_result=1;
+
+while(y>0)
+   power_result=x*power_result;
+   y=y-1;
+end
+
+display(power_result)
+
+factorial=5;
+factorial_result=1;
+
+while(factorial>0)
+    factorial_result=factorial_result*factorial;
+    factorial=factorial-1;
+end
+
+display(factorial_result)
+
+
+approximate=0;
+
+f=
+
